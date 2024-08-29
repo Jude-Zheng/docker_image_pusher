@@ -1,3 +1,4 @@
+smithchemwisc/flashlfq:latest
 chambm/pwiz-skyline-i-agree-to-the-vendor-licenses
 nginx
 #支持私库
